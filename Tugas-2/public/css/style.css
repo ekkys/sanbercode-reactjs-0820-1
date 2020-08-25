@@ -1,0 +1,27 @@
+/*INDEX*/
+
+
+
+/*garis bawah list */
+
+div{
+	border-bottom: solid 1px;
+}
+
+
+/*footer*/
+
+footer {
+	background: black;
+	color: white;
+	text-align: center;
+	padding: 10px;
+	margin-bottom: 30px;
+}
+
+/*semua text*/
+p{
+	padding:10px;
+}
+
+
