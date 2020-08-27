@@ -1,4 +1,4 @@
-//SOAL 1
+// SOAL 1
 
 console.log("<--- Soal 1 --->");
 console.log("|| Looping Maju Mundur ||");
@@ -37,12 +37,14 @@ console.log(" ");
 
 
 //SOAL 2
+
 console.log("<--- Soal 2 --->");
 console.log("|| Ganjil == Santai ||");
 console.log("|| Genap == Berkualitas ||");
 console.log("|| Kelipatan 3 && ganjil == I Love Coding||");
 
 // JAWABAN SOAL 2
+
 console.log(" ");
 console.log("<--- Jawaban Soal 2 --->");
 console.log(" ");
@@ -59,7 +61,7 @@ for (var angka = 1; angka <= 20; angka++) {
 }
 console.log(" ");
 
-//SOAL 3
+// SOAL 3
 console.log("<--- Soal 3 --->");
 console.log("||Segitiga Siku 7 x 7||");
 // #
@@ -70,7 +72,7 @@ console.log("||Segitiga Siku 7 x 7||");
 // ######
 // #######
 
-// JAWABAN SOAL 3
+// JAWABAN SOAL 3 
 console.log(" ");
 console.log("<--- Jawaban Soal 3 --->");
 console.log(" ");
@@ -113,35 +115,22 @@ while(pagarPerbaris <= jumlahPagar ){
 
 console.log(" ");
 
-//SOAL 4
+// SOAL 4
+
 console.log("<--- Soal 4 --->");
 console.log("| String to array|");
 
-// JAWABAN SOAL 4
+// JAWABAN SOAL 4 
+
 console.log("<--- Jawaban Soal 4 --->");
 console.log(" ");
 var kalimat="saya sangat senang belajar javascript";
 var split = kalimat.split(" ", 5);
-// var join = kalimat.join("-");
 console.log(split);
 
-// var index0 = kalimat.substr(0,4);
-// var index1 = kalimat.substr(5,7);
-// var index2 = kalimat.substr(12,7);
-// var index3 = kalimat.substr(19,7);
-// var index4 = kalimat.substr(27);
+
+// SOAL 5 
  
-// var sentence =  kalimat.splice(0, index0, index1, index2, index3, index4);
-// console.log(sentence);
-
-
-// console.log(index0);
-// console.log(index1);
-// console.log(index2);
-// console.log(index3);
-// console.log(index4);
-
-// SOAL 5
 console.log(" ");
 console.log("<--- Jawaban Soal 5 --->");
 console.log("|Mengurutkan array|");
@@ -149,7 +138,8 @@ console.log(" ");
 
 var daftarBuah = ["2. Apel", "5. Jeruk", "3. Anggur", "4. Semangka", "1. Mangga"];
 
-// JAWABAN SOAL 4
+// JAWABAN SOAL 5
+
 var show = daftarBuah.sort();
 
 console.log(show[0]);
