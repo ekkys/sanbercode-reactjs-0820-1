@@ -102,30 +102,28 @@ console.log("Nilai yang di cek : "+ nilai)
 
 
 //Soal 5
-
-
 var tanggal = 14;
 var bulan = 9;
 var tahun = 1996;
 
 // Jawaban Soal 5
-console.log(tanggal);
+
 switch(bulan){
-	case  1: {console.log("Januari"); break;}
-	case  2: {console.log("Februari"); break;}
-	case  3: {console.log("Maret"); break;}
-	case  4: {console.log("April"); break;}
-	case  5: {console.log("Mei"); break;}
-	case  6: {console.log("Juni"); break;}
-	case  7: {console.log("Juli"); break;}
-	case  8: {console.log("Agustus"); break;}
-	case  9: {console.log("September"); break;}
-	case  10: {console.log("oktober"); break;}
-	case  11: {console.log("November"); break;}
-	case  11: {console.log("Desember"); break;}
-	default: {console.log("Bulan tidak ditemukan");}
+	case  1: {str="Januari"; break;}
+	case  2: {str="Februari"; break;}
+	case  3: {str="Maret"; break;}
+	case  4: {str="April"; break;}
+	case  5: {str="Mei"; break;}
+	case  6: {str="Juni"; break;}
+	case  7: {str="Juli"; break;}
+	case  8: {str="Agustus"; break;}
+	case  9: {str="September"; break;}
+	case  10: {str="oktober"; break;}
+	case  11: {str="November"; break;}
+	case  11: {str="Desember"; break;}
+	default: {str="Bulan tidak ditemukan"}
 }
-console.log(tahun);
+console.log(tanggal+" "+str+" "+tahun);
 //Menampilkan tgl lahir
 
 
