@@ -5,6 +5,8 @@ console.log("|| Looping Maju Mundur ||");
 console.log("|| Genap - I will become a frontend developer ||");
 console.log("|| Deret 2 - I love coding||");
 
+// JAWABAN SOAL 1
+
 console.log(" ");
 console.log("<--- Jawaban Soal 1 --->");
 console.log(" ");
@@ -40,6 +42,7 @@ console.log("|| Ganjil == Santai ||");
 console.log("|| Genap == Berkualitas ||");
 console.log("|| Kelipatan 3 && ganjil == I Love Coding||");
 
+// JAWABAN SOAL 2
 console.log(" ");
 console.log("<--- Jawaban Soal 2 --->");
 console.log(" ");
@@ -67,6 +70,7 @@ console.log("||Segitiga Siku 7 x 7||");
 // ######
 // #######
 
+// JAWABAN SOAL 3
 console.log(" ");
 console.log("<--- Jawaban Soal 3 --->");
 console.log(" ");
@@ -112,6 +116,8 @@ console.log(" ");
 //SOAL 4
 console.log("<--- Soal 4 --->");
 console.log("| String to array|");
+
+// JAWABAN SOAL 4
 console.log("<--- Jawaban Soal 4 --->");
 console.log(" ");
 var kalimat="saya sangat senang belajar javascript";
@@ -135,6 +141,7 @@ console.log(split);
 // console.log(index3);
 // console.log(index4);
 
+// SOAL 5
 console.log(" ");
 console.log("<--- Jawaban Soal 5 --->");
 console.log("|Mengurutkan array|");
@@ -142,6 +149,7 @@ console.log(" ");
 
 var daftarBuah = ["2. Apel", "5. Jeruk", "3. Anggur", "4. Semangka", "1. Mangga"];
 
+// JAWABAN SOAL 4
 var show = daftarBuah.sort();
 
 console.log(show[0]);
